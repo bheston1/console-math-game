@@ -1,6 +1,7 @@
 Simple math game played in console
 
 extract and run the exe
+
 [console-math-game.zip](https://github.com/bheston1/console-math-game/files/15442143/console-math-game.zip)
 
 ![image](https://github.com/bheston1/console-math-game/assets/111481356/60deab54-d27c-4ad8-b358-3cf94850bba1)
