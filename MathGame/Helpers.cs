@@ -43,7 +43,7 @@
 
             foreach (Game game in previousGames)
             {
-                Console.WriteLine($"{game.Date.ToString("dddd, MMMM dd, yyyy")} - {game.GameType} | Score: {game.Score}/{game.MaxScore}");
+                Console.WriteLine($"{game.Date.ToString("MM/dd/yyyy, hh:mm tt")} - {game.GameType} | Score: {game.Score}/{game.MaxScore}");
             }
 
             Console.WriteLine("----------------------------------------------------------------------------------------------------");
