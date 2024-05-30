@@ -1,8 +1,6 @@
 Simple math game played in console
 
-Extract and run the exe
-
-[download](https://github.com/bheston1/console-math-game/files/15442143/console-math-game.zip)
+Download latest from releases, extract and run the .exe
 
 ![image](https://github.com/bheston1/console-math-game/assets/111481356/60deab54-d27c-4ad8-b358-3cf94850bba1)
 
